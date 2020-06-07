@@ -1,6 +1,6 @@
 # Bumblebee Conservation in the Midwest US
-### By: Patrick Campbell, Rishi Udeshi, Amund Tallaksen, LaChrista Douglas, Maureen Kimamo
-### Date: March 25, 2019
+#### By: Patrick Campbell, Rishi Udeshi, Amund Tallaksen, LaChrista Douglas, Maureen Kimamo
+#### Date: March 25, 2019
 
 ## I.	Problem
 
@@ -40,6 +40,11 @@ After completing the Survey123 data collection tool, we created a story map to c
 From our story map, users can zoom into specific locations to learn how their neighborhood compares to other areas in their vicinity in terms of pesticide use, potential for bees, and apiary locations. Gardeners can use this map to see if there is pesticide use in their area that would affect migration of bees. Community groups, schools and individuals that want to plant bee-friendly plants can maximize their impact by targeting high impact areas and referring to the section of the story map that recommends plants. We expect that after a few years, the Survey123 tool will have reliable time series data of bee sightings, a dataset that did not exist before this tool was created. 
 
 → Link to story map: [“Rusty Patched Bumble Bee Population Health”](https://carnegiemellon.maps.arcgis.com/apps/MapSeries/index.html?appid=9dc0bb2905164cf4a9c71c6e6a972c63)
+
+<p align="center">
+<img width="100%" height="100%" src="
+https://user-images.githubusercontent.com/32546509/83971918-9ae82300-a8ab-11ea-82e8-bf18962a0587.JPG">
+</p>
 
 ## V.	Lessons Learned 
 
