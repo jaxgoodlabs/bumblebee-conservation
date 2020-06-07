@@ -11,9 +11,13 @@ To protect the rusty patched bumble bee from extinction, our project will engage
 ## II.	Approach
 
 1.	Review known data to determine a possible data structure for the data set(s)
+
 2.	Create a data set representing population changes/colony loss relative to known drivers (pesticide use, vectors of disease and parasites, etc.) and critical resources (flowers, etc.)
+
 3.	Test/troubleshoot existing data collection tools for application to our project (ArcGIS Collector 123 application, Survey 123, etc.)
+
 4.	If feasible, collect supplemental data for the Midwest region (map locations of colonies, drivers, food sources, etc.).
+
 5.	Create a downloadable geodatabase that combines all the collected data in one convenient location and publish a map using ArcGIS Online for public use and consumption. This user-friendly platform would allow citizens to participate in the conservation of pollinators, more specifically bumble bees. The platform would potentially include information about local land use, plants and pesticide use to inform citizens about any environmental factors that impact pollinators.
 
 ## III.	Team Assignments
