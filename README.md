@@ -1,6 +1,6 @@
 # Bumblebee Conservation in the Midwest US
-#### By: Patrick Campbell, Rishi Udeshi, Amund Tallaksen, LaChrista Douglas, Maureen Kimamo
-#### Date: March 25, 2019
+#### Authors: Patrick Campbell, Rishi Udeshi, Amund Tallaksen, LaChrista Douglas, Maureen Kimamo
+#### March 25, 2019
 
 ## I.	Problem
 
